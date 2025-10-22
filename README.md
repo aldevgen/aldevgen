@@ -2,11 +2,11 @@
 
 ## About me 👩‍💻
 
-I am a passionate Data Engineer based in Paris, France. I am currently working at [**@LittleBigCode**](https://littlebigcode.fr) as a Data Engineer. I graduated from [**@ENSAI**](https://ensai.fr) in 2023, specialising in Data Science and Data Engineering.
+I am a passionate Data Engineer based in Paris, France. I am currently working at [**@Renault Digital**](https://www.linkedin.com/company/renault-digital/) as a Data Engineer. I graduated from [**@ENSAI**](https://ensai.fr) in 2023, specialising in Data Science and Data Engineering.
 
 ## :hammer_and_wrench: Languages and Tools
 
-My training at ENSAI and my experience at LittleBigCode have allowed me to acquire a solid knowledge of the following tools and languages:
+My multifarious professional background and my studies at ENSAI, I have acquired substantial knowledge of the following instruments and languages:
 
 **Programming Languages** : Python, SQL, Bash, Java, Scala
 
