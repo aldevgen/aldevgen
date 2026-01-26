@@ -19,7 +19,7 @@ My multifarious professional background and my studies at ENSAI, I have acquired
 **Frameworks** : FastAPI, Flask
 
 [//]: # (<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>)
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="fastapi" width="40" height="40"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal-vector.svg" alt="fastapi" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
 
 **Databases** : PostgreSQL, Apache Cassandra, MongoDB
@@ -73,15 +73,15 @@ Have a look at the song I'm currently listening to:
 ## 📊 GitHub Stats
 
 <!--
-![Alanna's Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=alannadevgen&show_icons=true&theme=dark&hide_border=true&locale=en&layout=normal)
+![Alanna's Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=aldevgen&show_icons=true&theme=dark&hide_border=true&locale=en&layout=normal)
 
 My top languages mainly reflect those used for my academic projects.
 -->
 
 <p align="center">
-  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alannadevgen&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&custom_title=My%20GitHub%20stats" width="45%">
+  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aldevgen&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&custom_title=My%20GitHub%20stats" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="My current contribution streak" src="http://github-readme-streak-stats.herokuapp.com?user=alannadevgen&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="45%">
+  <img alt="My current contribution streak" src="http://github-readme-streak-stats.herokuapp.com?user=aldevgen&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="45%">
 </p>
 
 
@@ -97,7 +97,7 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 
 <p align="center"> 
    Visitors Count<br>
-   <img src="https://profile-counter.glitch.me/alannadevgen/count.svg" />
+   <img src="https://profile-counter.glitch.me/aldevgen/count.svg" />
  </p>
 
 Thank you for visiting my GitHub page, see you soon! 👋
